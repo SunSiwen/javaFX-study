@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df3533ce-66fd-49c8-a8da-bfa8a5bdd113" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CeJiQly0R6FNpfg5uLpeqANdkW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.59885055" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaFX-study\src\main\resources" />
+      <recent name="D:\javaFX-study\src\main\resources\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaFX-study\src\main\resources" />
+      <recent name="D:\javaFX-study\src\main\resources\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stage7" />
+      <recent name="stage6" />
+      <recent name="stage5" />
+      <recent name="stage4" />
+      <recent name="stage3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LearnGraphic">
+    <configuration name="Album" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage1.Album" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnAlertDialog" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage5.LearnAlertDialog" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnBorderPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnBorderPane" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnCallback" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnControllerLayouyt" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnControllerLayouyt" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnControllerSize" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnControllerSize" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnCustomizedController" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnCustomizedController" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnCustomizedDialog" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage5.LearnCustomizedDialog" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnFileBrowser" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage4.LearnFileBrowser" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnFileDialog" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage5.LearnFileDialog" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnGraphic" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage7.LearnGraphic" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnHBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnHBox" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage1.LearnImage" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnListController" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage3.LearnListController" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnListControllerChange" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage3.LearnListControllerChange" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnMenu" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage6.LearnMenu" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnMouseEvent" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage3.LearnMouseEvent" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnMultiSelection" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage3.LearnMultiSelection" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnNestedController" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage2.LearnNestedController" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnReader" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage3.LearnReader" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnTreeView" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stage4.LearnTreeView" />
+      <module name="javaFX-study" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;F:\下载\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stage4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LearnImage" />
+      <item itemvalue="Application.Album" />
+      <item itemvalue="Application.LearnCallback" />
+      <item itemvalue="Application.LearnBorderPane" />
+      <item itemvalue="Application.LearnHBox" />
+      <item itemvalue="Application.LearnControllerSize" />
+      <item itemvalue="Application.LearnControllerLayouyt" />
+      <item itemvalue="Application.LearnCustomizedController" />
+      <item itemvalue="Application.LearnNestedController" />
+      <item itemvalue="Application.LearnListController" />
+      <item itemvalue="Application.LearnListControllerChange" />
+      <item itemvalue="Application.LearnMultiSelection" />
+      <item itemvalue="Application.LearnMouseEvent" />
+      <item itemvalue="Application.LearnReader" />
+      <item itemvalue="Application.LearnTreeView" />
+      <item itemvalue="Application.LearnFileBrowser" />
+      <item itemvalue="Application.LearnAlertDialog" />
+      <item itemvalue="Application.LearnCustomizedDialog" />
+      <item itemvalue="Application.LearnFileDialog" />
+      <item itemvalue="Application.LearnMenu" />
+      <item itemvalue="Application.LearnGraphic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LearnHBox" />
+        <item itemvalue="Application.LearnCallback" />
+        <item itemvalue="Application.LearnBorderPane" />
+        <item itemvalue="Application.Album" />
+        <item itemvalue="Application.LearnImage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3533ce-66fd-49c8-a8da-bfa8a5bdd113" name="Changes" comment="" />
+      <created>1659157244205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659157244205</updated>
+      <workItem from="1659157254946" duration="2884000" />
+      <workItem from="1659214083706" duration="23636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stage2/LearnCallback.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stage3/LearnReader.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="stage" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
